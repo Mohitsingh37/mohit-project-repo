@@ -3,7 +3,7 @@ terraform {
     organization = "mohit-accenture"
 
     workspaces {
-      name = "test-workspace-dev"
+      name = "mohit-project-repo"
     }
   }
 }
